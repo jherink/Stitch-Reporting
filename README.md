@@ -1,5 +1,5 @@
 <!--# Stitch -->
-<img src="https://raw.githubusercontent.com/jherink/Stitch/master/src/Icon/Stitch326x128.png" />
+<img src="https://raw.githubusercontent.com/jherink/Stitch-Reporting/master/Img/Icon/Stitch326x128.png" />
 Create highly customizable reports using HTML &amp; CSS in .NET
 
 <hr />
