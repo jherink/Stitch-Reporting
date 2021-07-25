@@ -1,5 +1,5 @@
 <!--# Stitch -->
-<img src="https://raw.githubusercontent.com/jherink/Stitch-Reporting/master/Img/Icon/Stitch326x128.png" />
+<img src="https://raw.githubusercontent.com/jherink/Stitch-Reporting/main/Img/Stitch326x128.png" />
 Create highly customizable reports using HTML &amp; CSS in .NET
 
 <hr />
@@ -23,3 +23,6 @@ you to mine data from these reports if needed.</li>
 ### CSS
 
 Stitch uses [W3.CSS](https://www.w3schools.com/w3css/default.asp), currently version 2.84, for it's default styling.  As a user you have access to all the CSS styling available in W3.CSS in your Stitch elements.
+
+
+<b><i>More documentation coming soon!</i></b>
